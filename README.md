@@ -1,6 +1,6 @@
-make
-insmod web
-70 进程
-61 root
-72 模块
-隐藏 .ssh
+1.make
+2.insmod web
+3.70 进程
+4.61 root
+5.72 模块
+6.隐藏 .ssh
